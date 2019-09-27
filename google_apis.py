@@ -225,7 +225,7 @@ class SearchConsole(GoogleAPI):
 
 if __name__ == '__main__':
 
-    site = "https://www.myprotein.com/"
+    site = "https://www.example.com/"
 
     start_date = "2019-06-01"
     end_date = "2019-09-09"
